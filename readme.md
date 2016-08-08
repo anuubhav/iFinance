@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 
+## Notes
+Project was developed in USC CSCI 310 Class with Ayush Saraswat, Sagar Mittal, Derrick Choi, and Camilo Valderruten
+
 ## Usage to Start Program
 1. Navigate to the project directory in terminal.
 2. Use the command `php artisan serve` to start the web server.
